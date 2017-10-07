@@ -13,6 +13,7 @@
     --lightgrey: #c5d2d9;
     --whitegrey: #e5eff5;
     --pink: #fa3a57;
+    --darkpink: #880e4f;
     --brown: #a3821a;
 }
 
@@ -411,7 +412,7 @@ blockquote cite a {
 }
 
 a {
-    color: color(var(--blue) l(-5%));
+    color: color(var(--darkpink) l(-5%));
     text-decoration: none;
 }
 
